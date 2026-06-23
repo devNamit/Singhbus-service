@@ -17,7 +17,7 @@ export function Footer() {
               </div>
             </div>
             <p className="mt-4 text-sm text-muted leading-relaxed">
-              35+ years of trusted bus rental services in Lucknow. Your journey, our commitment.
+              35+ years of trusted bus rental services in Varanasi. Your journey, our commitment.
             </p>
           </div>
 
