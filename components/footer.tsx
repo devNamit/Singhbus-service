@@ -63,13 +63,13 @@ export function Footer() {
                   </a>
                   <br />
                   <a href="tel:+919839629498" className="text-muted transition-colors hover:text-primary">
-                    +91-9839629498
+                    +91 91199 00394
                   </a>
                 </div>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-primary" />
-                <span className="text-muted">Lucknow, Uttar Pradesh, India</span>
+                <span className="text-muted"> Bhullanpur Varanasi, UP India</span>
               </li>
               <li className="flex items-start gap-2">
                 <Clock className="mt-0.5 h-4 w-4 shrink-0 text-primary" />

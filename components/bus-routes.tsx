@@ -103,12 +103,12 @@ function RouteCard({ route }: RouteCardProps) {
       </div>
 
       {/* Book Button - WhatsApp Redirect */}
-      <div className="mt-3 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+      <div className="mt-3">
         <a
           href={whatsappUrl}
           target="_blank"
           rel="noopener noreferrer"
-          className="block w-full text-center px-3 py-1.5 rounded bg-primary text-primary-foreground text-xs font-semibold hover:bg-primary/90 transition-colors"
+          className="block w-full text-center px-3 py-1.5 rounded bg-primary text-primary-foreground text-xs font-semibold hover:bg-primary/90 active:bg-primary/75 transition-colors duration-150"
         >
           Book Now
         </a>

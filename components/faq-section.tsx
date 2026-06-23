@@ -31,10 +31,6 @@ const faqs = [
     answer:
       "Absolutely! We encourage customers to inspect the bus before finalizing the booking. You can visit our Bus at Bhullanpur Varanasi or we can arrange a visit to show you the exact bus that will be assigned for your trip.",
   },
-  {
-    question: "May I know All Routes?",
-    answer: ""
-  }
 ]
 
 export function FAQSection() {
