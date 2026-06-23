@@ -16,9 +16,7 @@ export default function Home() {
       <main>
         <HeroSection />
         <ServicesSection />
-        {/* <TestimonialsSection/> */}
         <BusRoutes/>
-        {/* <FleetSection/> */}
         <AboutSection />
         <FAQSection />
         <ContactSection />

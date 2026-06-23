@@ -15,14 +15,14 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Singh Bus Service | Bus Rental in Lucknow | Wedding & Tour Bus Hire",
+  title: "Singh Bus Service | Bus Rental in Varanasi | Tour Bus Hire",
   description:
-    "Singh Bus Service offers premium bus rental services in Lucknow for weddings, corporate events, pilgrimages, and tours. 35+ years of trusted service with AC and non-AC luxury buses. Call +91-9118681966 for instant booking.",
+    "Singh Bus Service offers premium bus rental services in Varanasi for weddings, corporate events, pilgrimages, and tours. 35+ years of trusted service with AC and non-AC luxury buses. Call +91-9118681966 for instant booking.",
   keywords: [
-    "bus rental Lucknow",
-    "bus hire Lucknow",
+    "bus rental Varanasi",
+    "bus hire Varanasi",
     "wedding bus rental",
-    "tour bus Lucknow",
+    "tour bus Varanasi",
     "corporate bus hire",
     "pilgrimage bus service",
     "luxury bus rental UP",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Singh Bus Service" }],
   openGraph: {
-    title: "Singh Bus Service | Premium Bus Rental in Lucknow",
+    title: "Singh Bus Service | Premium Bus Rental in Varanasi",
     description:
       "35+ years of trusted bus rental service in Lucknow. Wedding buses, tour packages, corporate travel & pilgrimages. Book now!",
     url: "https://singhbusservice.com",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Singh Bus Service | Bus Rental in Lucknow",
+    title: "Singh Bus Service | Bus Rental in Varanasi",
     description:
       "Premium bus rental services for weddings, tours, corporate events. 35+ years of trusted service.",
   },
@@ -75,8 +75,8 @@ export default function RootLayout({
               telephone: "+91-9118681966",
               address: {
                 "@type": "PostalAddress",
-                streetAddress: "Lucknow",
-                addressLocality: "Lucknow",
+                streetAddress: "Bhullanpur",
+                addressLocality: "Varanasi",
                 addressRegion: "Uttar Pradesh",
                 postalCode: "226001",
                 addressCountry: "IN",
@@ -103,7 +103,7 @@ export default function RootLayout({
               sameAs: [],
               priceRange: "$$",
               description:
-                "Premium bus rental services in Lucknow for weddings, corporate events, pilgrimages, and tours. 35+ years of trusted service.",
+                "Premium bus rental services in Varanasi for corporate events, pilgrimages, and tours. 35+ years of trusted service.",
             }),
           }}
         />
